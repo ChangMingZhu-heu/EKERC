@@ -2,13 +2,6 @@
 CODE FOR EKERC
 Data DIR Structure
 The structure of the data dir is as follows:
-data
-└───   EMORY
-       └─── EMORY.pkl
-       └─── EMORY_revised.pkl
-└───   dialog_concept
-       └─── causes_weight_dict_all.json
-       └─── hascontext_weight_dict_all.json
-       └─── isa_dict_all.json
-       └─── isa_weight_dict_all.json
+![image](https://github.com/user-attachments/assets/835800cf-e607-43c3-b2c6-68baddb12259)
+
 
