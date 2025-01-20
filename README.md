@@ -16,6 +16,7 @@ In order to implement the proposed SKIER framework, you have to download the pre
 Check out GloVe Embeddings https://nlp.stanford.edu/data/glove.6B.zip before you run the code.
 
 To run this code, plz use the following command (take meld dataset as an example)
+
 python3 train_dd.py --model-type roberta_large --att_dropout 0.5 --output_dim 1024 --chunk_size 50 --base-lr 0.0000005  --epochs 15 --num_epochs 40 --num_relations 10 --data_type meld --num_features 6 --freeze_glove --num_class 7 --use_fixed
 
 
