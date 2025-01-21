@@ -1,6 +1,5 @@
 # EKERC
 CODE FOR EKERC
-Data DIR Structure
 
 The structure of the data dir is as follows:
 
