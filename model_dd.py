@@ -1,6 +1,4 @@
-'''
-Author: Chang MingZhu
-'''
+
 import torch
 import torch.nn as nn
 import dgl
