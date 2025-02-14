@@ -1,6 +1,4 @@
-'''
-Author: Chang MingZhu
-'''
+
 
 import argparse
 
